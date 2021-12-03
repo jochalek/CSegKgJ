@@ -1,0 +1,18 @@
+name = "CSegKgJ"
+uuid = "6cfe117e-a1fb-41da-bdb2-dc1b8453bbb7"
+authors = ["Justin Ochalek <jochalek125@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+FastAI = "5d0beca9-ade8-49ae-ad0b-a3cf890e669f"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+FluxTraining = "7bf95e4d-ca32-48da-9824-f0dc5310474f"
+ImageIO = "82e4d734-157c-48bb-816b-45c225c6df19"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+Metalhead = "dbeba491-748d-5e0e-a39e-b530a07fa0cc"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+Wandb = "ad70616a-06c9-5745-b1f1-6a5f42545108"
